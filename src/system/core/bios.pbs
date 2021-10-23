@@ -1,0 +1,15 @@
+light off
+forecolor 15
+backcolor 0
+clear
+frame 10 0 40 3 "DOS-like Terminal Emulator ver. 0.1.1"
+println " "
+println " "
+println " "
+println " "
+println "Введите help для просмотра списка команд."
+println "Зажатый LControl ускоряет вывод сообщения."
+cursor show
+//BIOS
+var bios "print ">>";input io;println "";eval bios"
+eval bios
