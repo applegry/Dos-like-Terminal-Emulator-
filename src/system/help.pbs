@@ -1,0 +1,9 @@
+//help command
+println "clear - очищает экран"
+println "forecolor - цвет текста"
+println "backcolor - цвет фона"
+println "light - подсветка [on/off]"
+println "exit - выход"
+println "file - запуск скрипта"
+println "bfile - запуск Brainfuck скрипта"
+eval bios

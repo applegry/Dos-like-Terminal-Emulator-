@@ -1,0 +1,6 @@
+clear
+print "Введите пароль:"
+input io
+print "password is"
+println io
+eval bios 
